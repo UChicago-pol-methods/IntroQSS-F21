@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Mac
 .DS_store
+
+# Repository management
+public-private-repos.md
