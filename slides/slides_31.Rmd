@@ -18,4 +18,5 @@ output:
 1. Aronow, P., & Miller, B. (2019). Foundations of Agnostic Statistics. Cambridge: Cambridge University Press. Chapter 1: Probability Theory (pp. 3-43)
 1. Imai, Kosuke. (2018). Quantitative Social Science: An Introduction. Princeton: Princeton University Press. 
 Chapter 6: Probability (pp. 242-313)
+1. Hernán MA, Robins JM (2020). Causal Inference: What If. Boca Raton: Chapman & Hall/CRC.
 
