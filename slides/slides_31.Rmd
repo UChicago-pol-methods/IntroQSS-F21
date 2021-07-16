@@ -1,0 +1,21 @@
+---
+title: "3.1 Probability"
+subtitle: "PLSC30500, Fall 2021"
+# author: "Andy Eggers & Molly Offer-Westort"
+output: 
+  xaringan::moon_reader:
+    css: [default, shinobi]
+    nature:
+      highlightStyle: atelier-lakeside-light
+      highlightLines: true
+      countIncrementalSlides: false
+  
+---
+
+
+# Some reference texts
+
+1. Aronow, P., & Miller, B. (2019). Foundations of Agnostic Statistics. Cambridge: Cambridge University Press. Chapter 1: Probability Theory (pp. 3-43)
+1. Imai, Kosuke. (2018). Quantitative Social Science: An Introduction. Princeton: Princeton University Press. 
+Chapter 6: Probability (pp. 242-313)
+
