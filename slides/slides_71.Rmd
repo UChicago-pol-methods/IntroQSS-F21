@@ -198,10 +198,10 @@ We can re-run the randomization, and the potential outcomes and observed $Y_i$ w
 
 $\frac{\sum_i^n Y_i D_i}{\sum_i^n D_i} = \color{blue}{15}$
 
-$\frac{\sum_i^n Y_i (1-D_i)}{\sum_i^n (1-D_i)} = \color{blue}{18.33}$
+$\frac{\sum_i^n Y_i (1-D_i)}{\sum_i^n (1-D_i)} = \color{blue}{19}$
 
 $$
-\hat{\tau}_{DM} = \color{blue}{-3.33}
+\hat{\tau}_{DM} = \color{blue}{-4}
 $$
 
 ---
