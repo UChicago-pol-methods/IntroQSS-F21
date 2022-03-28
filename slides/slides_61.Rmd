@@ -185,8 +185,8 @@ Note:
 - 2 is by law of iterated expectations
 - 3 is by definition of ITE
 - 4 is by linearity of expectations
-- 5 is by assumption of potential outcomes model (SUTVA)
-- 6 is by strong ignorability
+- 5 is by strong ignorability
+- 6 is by assumption of potential outcomes model (SUTVA)
 
 See Theorem 7.1.13 in Aronow and Miller.
 
